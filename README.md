@@ -1,2 +1,2 @@
-# lolphase.github.io
-League website
+# LoLPhase
+League of Legends website
